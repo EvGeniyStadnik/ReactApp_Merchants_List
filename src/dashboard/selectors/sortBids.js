@@ -1,0 +1,1 @@
+export const sortBids = (a, b) => (b.created - a.created);

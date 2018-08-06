@@ -1,0 +1,24 @@
+.merchantWrapper {
+  border: 1px solid gray;
+  margin: 5px;
+}
+
+.merchantRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px dotted gray;
+}
+
+.bidRow {
+  display: flex;
+  align-items: center;
+}
+
+.MerchantControls {
+  display: grid;
+}
+
+.item {
+  margin: 5px;
+}
